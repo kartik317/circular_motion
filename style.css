@@ -1,0 +1,20 @@
+body{
+  margin: 0px;
+  background-color: #ffffff;
+}
+
+canvas{
+  background-color: #777777;
+}
+
+#playButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #888888;
+  font-size: 2em;
+}
+
+audio {
+  display: none;
+}
